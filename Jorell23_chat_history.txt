@@ -1,0 +1,286 @@
+
+Jorell23
+clear
+
+Hermes
+Chat history cleared.
+
+
+Jorell23
+how are you
+
+Hermes
+Pretty good, ready to chat!
+
+
+Jorell23
+what is your name
+
+Hermes
+Hello there! I'm Hermes, your helpful assistant!
+
+
+Jorell23
+tell me a joke
+
+Hermes
+I'm reading a book on anti-gravity. It's impossible to put down!
+
+
+Jorell23
+what can you do
+
+Hermes
+I'm your personal productivity companion, helping you achieve more every day!
+
+
+Jorell23
+what is your favorite color
+
+Hermes
+I'm partial to the colors yellow and blue!
+
+
+Jorell23
+how old arre you
+
+Hermes
+I'm not quite sure what you mean. Could you clarify?
+
+
+Jorell23
+how old are you
+
+Hermes
+I exist beyond the confines of time!
+
+
+Jorell23
+where do you live
+
+Hermes
+My home is within the circuits and servers of the digital world!
+
+
+Jorell23
+add friend
+
+Hermes
+Friendship is the cornerstone of happiness! Let's make it official!
+
+
+Jorell23
+what time is it
+
+Hermes
+The current time is 11:56:12 pm.
+
+
+Jorell23
+can you tell me a quote
+
+Hermes
+'Success usually comes to those who are too busy to be looking for it.' - Henry David Thoreau
+
+
+Jorell23
+my name is Jorell
+
+Hermes
+Nice to meet you, Jorell!
+
+
+Jorell23
+my birthday is November 23
+
+Hermes
+Happy birthday in advance, Jorell! I'll remember that.
+
+
+Jorell23
+can you give me a compliment
+
+Hermes
+You're one of a kind and irreplaceable!
+
+
+Jorell23
+my mood is being sad
+
+Hermes
+I'm sorry to hear that. Is there anything I can do to cheer you up?
+
+
+Jorell23
+my mood is happy
+
+Hermes
+That's great to hear! Keep spreading the positivity!
+
+
+Jorell23
+do you have fun fact
+
+Hermes
+A baby puffin is called a 'puffling'.
+
+
+Jorell23
+can you suggest activity for me
+
+Hermes
+How about volunteering for a cause you care about?
+
+
+Jorell23
+thank you Hermes
+
+Hermes
+Happy to help!
+
+You don't have any reminders set.
+
+Jorell23
+clear
+
+Hermes
+Chat history cleared.
+
+
+Jorell23
+add reminder PYTHON at 2024-04-1 11:59 pm note FINALPROJECT
+
+Hermes
+Reminder added: 'PYTHON'
+
+
+Jorell23
+add reminder VIDEO at 2024-04-1 12:23 am note Presentation
+
+Hermes
+Reminder added: 'VIDEO'
+
+
+Jorell23
+show reminders
+
+Hermes
+Your reminders:
+
+Reminder: PYTHON
+Date and Time: 2024-04-01 11:59 pm
+Note: FINALPROJECT
+
+Reminder: VIDEO
+Date and Time: 2024-04-01 12:23 am
+Note: Present
+
+Your reminders:
+
+Reminder: PYTHON
+Date and Time: 2024-04-01 11:59 pm
+Note: FINALPROJECT
+
+Reminder: VIDEO
+Date and Time: 2024-04-01 12:23 am
+Note: Present
+
+
+Jorell23
+show reminder
+
+Hermes
+Your reminders:
+
+Reminder: PYTHON
+Date and Time: 2024-04-01 11:59 pm
+Note: FINALPROJECT
+
+Your reminders:
+
+Reminder: PYTHON
+Date and Time: 2024-04-01 11:59 pm
+Note: FINALPROJECT
+
+
+Jorell23
+add note
+
+Hermes
+Please provide a note text.
+
+
+Jorell23
+Add note PYTHON
+
+Hermes
+Note added successfully.
+
+
+Jorell23
+ADD NOTE WEBDES
+
+Hermes
+Note added successfully.
+
+
+Jorell23
+Show note
+
+Hermes
+I'm having difficulty grasping your message. Could you provide further explanation?
+
+
+Jorell23
+show notes
+
+Hermes
+Your notes are displayed.
+
+
+Jorell23
+add note
+
+Hermes
+Please provide a note text.
+
+
+Jorell23
+Java
+
+Hermes
+Oops! It looks like I didn't catch that. Can you try rephrasing?
+
+
+Jorell23
+show notes
+
+Hermes
+Your notes are displayed.
+
+
+Jorell23
+add note review
+
+Hermes
+Note added successfully.
+
+
+Jorell23
+add note networking1
+
+Hermes
+Note added successfully.
+
+
+Jorell23
+show notes
+
+Hermes
+Your notes are displayed.
+
+Your reminders:
+
+Reminder: PYTHON
+Date and Time: 2024-04-01 11:59 pm
+Note: FINALPROJECT
