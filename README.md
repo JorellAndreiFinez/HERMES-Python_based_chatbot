@@ -16,13 +16,33 @@ Inspired by **Hermes**, the messenger of the Greek gods, this project represents
 
 ---
 
-## 🎯 Project Rationale
+## 🧩 Project Rationale
 
 In today’s fast-paced digital environment, users juggle multiple tasks and data sources. While existing assistants like Siri and Alexa provide automation, they often depend on online services or complex integrations.
 
 **Hermes** bridges this gap with an **offline, modular desktop assistant** that performs common tasks — such as chatting, storing notes, managing reminders, and solving basic computations — through a structured, predefined logic system.
 
 It’s a practical demonstration of **integrative programming**, combining Python modules, GUI frameworks, and logical workflows into a cohesive, user-centered application.
+
+---
+
+## 🎯 Project Objectives
+
+The Hermes project aims to develop an personal assistant capable of performing a wide range of interactive and administrative tasks. Specifically, the objectives are to:
+
+1. Enhance user interaction through conversational features such as mood-based responses, quotes, jokes, and activity suggestions.
+
+2. Implement robust user management, enabling administrators to create, update, delete, and display user accounts securely through a dedicated admin interface.
+
+3. Support CRUD operations for user-generated content, including notes, reminders, and bookmarks, ensuring efficient data handling and accessibility.
+
+4. Incorporate computational capabilities, allowing users to perform arithmetic and math-related commands directly within the chatbot.
+
+5. Strengthen data security and integrity using JSON-based local storage to safeguard user information and maintain offline functionality.
+
+6. Improve user experience and engagement through responsive UI design, adaptive chatbot behavior, and informative responses.
+
+7. Demonstrate integrative programming principles by combining multiple Python modules, GUI frameworks, and logical structures into a cohesive, intelligent desktop application.
 
 ---
 
