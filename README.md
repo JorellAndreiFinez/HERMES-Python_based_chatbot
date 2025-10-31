@@ -182,9 +182,10 @@ Submitted by:
 
 Submitted to:
 
-**Dr. Roman De Angel**
+**Dr. Roman De Angel**  
 Department of Information Technology  
 FEU Institute of Technology 
+
 
 > Integrative Programming and Technologies (IT0011)
 
