@@ -182,13 +182,12 @@ Submitted by:
 
 Submitted to:
 
-Dr. Roman De Angel
-Department of Information Technology
-Integrative Programming and Technologies (IT0011)
+**Dr. Roman De Angel**
+Department of Information Technology  
+FEU Institute of Technology 
 
-
-Submission Date: March 31, 2024
-Section: TW24
+> Integrative Programming and Technologies (IT0011)
+> Submission Date: March 31, 2024
 
 ---
 
